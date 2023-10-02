@@ -172,9 +172,12 @@ class Name():
             else:
                 self.suffix = random.choice(self.names_dict["normal_suffixes"])
 
-    def __repr__(self):
+def __repr__(self):
         if self.status in self.names_dict["special_suffixes"] and not self.specsuffix_hidden:
             return self.prefix + self.names_dict["special_suffixes"][self.status]
+        elif self.status in self.names_dict["special_prefixes"] and not self.specsuffix_hidden:
+            return self.names_dict["special_prefixes"][self.status] + self.suffix
+
         else:
             if game.config['fun']['april_fools']:
                 return self.prefix + 'egg'
