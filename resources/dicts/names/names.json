@@ -110,9 +110,9 @@
     "Flit", "Flood", "Flower That Faces Sun", "Flower Crushed Under Paw", "Fluff", "Fluffy", "Flutter", "Fly That Buzzes Loudly", "Fog", "Foggy", "Freckle", "Fringe", "Frog", "Frond", "Fruit", 
     "Fumble", "Furled", "Furze", "Fuzz", "Fuzzy", "Gale", "Gander", "Gardenia", "Garlic", "Gentle", "Gill", "Glade", "Goose", "Gorge", 
     "Gorse", "Grass", "Gravel", "Grouse", "Gull", "Guppy", "Gust", "Hail", "Half", "Hare That Hides From Eagle", "Hatching Of Small Wren", "Haven", "Hawk", "Hay", "Hazel", 
-    "Hazy", "Heart Shape Of Puddle", "Heath", "Heavy", "Hemlock", "Heron", "Hill", "Hollow", "Holly", "Honey", "Hoot Of Great Horned Owl", "Hop", "Hope", "Hornet", 
+    "Hazy", "Heart Shape Of Puddle", "Heath", "Heavy", "Hemlock", "Heron", "Hill Where Small Animals Shelter", "Hollow", "Holly", "Honey", "Hoot Of Great Horned Owl", "Hop", "Hope", "Hornet", 
     "Hound", "Howl", "Hush", "Hyacinth", "Iris", "Ivy", "Jackdaw Who Cries At Dawn", "Jagged", "Jay", "Jumble", "Jump", "Junco", "Juniper", "Kestrel", 
-    "Kink", "Kite", "Ladybug That Flutters Over Trees", "Lake", "Larch", "Lark", "Laurel", "Lavender", "Leaf Falling From Dead Tree", "Leap", "Leopard", "Lichen", "Light", "Lightning", "Lilac", 
+    "Kink", "Kite", "Ladybug That Flutters Over Trees", "Lake", "Larch", "Lark That Sings At Morning", "Laurel", "Lavender", "Leaf Falling From Dead Tree", "Leap", "Leopard", "Lichen", "Light", "Lightning", "Lilac", 
     "Lily", "Lion Walking On Rocks", "Little", "Lizard", "Locust", "Long", "Lotus", "Loud", "Low", "Luck", "Lupine", "Lynx", "Mallow", "Mantis", 
     "Maple", "Marigold", "Marsh", "Meadow", "Midge", "Milk", "Milkweed", "Mink", "Minnow", "Mistle", "Mite", "Mole", "Moon That Shines In Night Sky", "Moon That Peeks Through Clouds", 
     "Moor", "Morning", "Moss That Grows By River", "Mossy", "Moth", "Mottle", "Mottled", "Mouse That Skitters Through Bush", "Mumble", "Murk", "Myrtle", "Nectar", "Needle", 
@@ -137,7 +137,7 @@
   "colour_prefixes": {
     "WHITE": [
     "White", "White", "Pale", "Snow That Crumbles Under Paw", "Snow That Falls From Clouds", "Cloud That Covers Sun", "Cloudy", "Milk", "Hail", "Frost That Comes With Cold", "Frozen", "Freeze", "Ice", "Icy", "Icicle",
-    "Blizzard", "Flurry", "Moon Reflecting In Puddle", "Light", "Bone", "Bright", "Swan", "Dove That Coos At Night", "Cotton", "Hawthorn", "Laurel", "Wisp",
+    "Blizzard", "Flurry", "Moon Reflecting In Puddle", "Light", "Bone", "Bright", "Swan Floating In Lake", "Dove That Coos At Night", "Cotton", "Hawthorn", "Laurel", "Wisp",
     "Fringe", "Ibis", "Air", "Bright", "Rime", "Ghost", "Privet", "Egg"
     ],
     "PALEGREY": [
@@ -151,7 +151,7 @@
     "Rue", "Fringe", "Glint", "Mistle", "Shatter", "Gossamer", "Air", "Pale", "Ermine", "Stoat", "Gull", "Vine", "Lilac", "Rime"
     ],
     "GREY": [
-    "Gray", "Gray", "Ash", "Ashen", "Cinder", "Rock Where Bugs Hide", "Stone", "Shade", "Mouse", "Smoke", "Smoky", "Shadow", "Fog", "Bone",
+    "Gray", "Gray", "Ash", "Ashen", "Cinder", "Rock Where Bugs Hide", "Stone", "Shade", "Mouse", "Smoke", "Smoky", "Shadow", "Fog That Settles After Rain", "Bone",
     "Bleak", "Rain", "Storm", "Soot", "Pebble Of Large Boulder", "Mist That Covers Mountains", "Misty", "Heather", "Trout", "Shrike", "Plume", "Teasel",
     "Lyre", "Rat", "Gull", "Pigeon", "Rime"
     ],
@@ -203,7 +203,7 @@
     ],
     "BROWN": [
     "Brown", "Brown", "Oak", "Mouse", "Dark", "Shade", "Russet", "Dust", "Dusty", "Mud", "Deer", "Fawn", "Doe", "Stag",
-    "Twig", "Owl That Watches At Night", "Otter", "Log", "Vole", "Branch", "Hazel", "Robin", "Umber", "Tree", "Root", "Shadow", "Ochre", "Auburn", "Burnet"
+    "Twig", "Owl That Watches At Night", "Otter", "Log", "Vole", "Branch", "Hazel", "Robin", "Umber", "Tree That Grows Alone", "Root", "Shadow", "Ochre", "Auburn", "Burnet"
     ],
     "GOLDEN-BROWN": [
     "Brown", "Brown", "Oak", "Mouse", "Dark", "Shade", "Russet", "Dust", "Dusty", "Mud", "Deer", "Fawn", "Doe", "Stag",
