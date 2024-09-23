@@ -101,7 +101,7 @@
     "Current Flowing Through Slow River", "Cypress Grove In Oak Forest",
     "Dahlia With Claw Shaped Petals", "Daisy Growing On Hill",
     "Dancing Flower In Field", "Dapple Of Leaves On Ground",
-    "Dappled Sunlight Through Treetops", "Dart Of Fluttering Dragonfly",
+    "Dappled Spots of Fawn", "Dart Of Fluttering Dragonfly",
     "Dash Of Quick Rabbit", "Dawn That Brings The Sun",
     "Dazzle Of Scattered Droplets", "Dew Glistening In Sun",
     "Dog Running Over Hills", "Down Of Baby Bird",
@@ -179,7 +179,7 @@
     ],
     "GHOST": [
     "Black", "Black", "Shade", "Shaded", "Crow", "Raven", "Ebony", "Dark", "Char", "Charred", "Magpie",
-    "Night", "Shadow", "Scorch", "Midnight", "Bleak", "Storm", "Violet", "Pepper", "Bat", "Faded", "Silver", "Ghost"
+    "Night", "Shadow", "Scorch", "Midnight", "Bleak", "Storm", "Violet", "Pepper", "Bat Swooping Low at Night", "Faded", "Silver", "Ghost"
     ],
     "PALEGINGER": [
     "Pale", "Ginger", "Sand", "Sandy", "Yellow", "Sun Reflected On Pond", "Sunny", "Light", "Lion", "Bright", "Phlox", "Vervain",
@@ -193,7 +193,7 @@
     ],
     "GINGER": [
     "Ginger", "Ginger", "Red", "Fire", "Rust", "Flame That Lights Up Night", "Ember From Burning Flame", "Sun That Slowly Falls", "Sunny", "Light", "Primrose", "Rose",
-    "Rowan", "Fox", "Tawny", "Plum", "Orange", "Warm", "Burn", "Burnt", "Robin", "Amber", "Larkspur", "Straw", "Lyre",
+    "Rowan", "Fox", "Tawny", "Plum", "Orange", "Warm", "Burn", "Burnt", "Robin", "Amber Sky of Sunset", "Larkspur", "Straw", "Lyre",
     "Flare", "Blaze", "Ochre", "Auburn", "Pumpkin"
     ],
     "DARKGINGER": [
@@ -202,7 +202,7 @@
     "Robin", "Berry", "Ochre", "Auburn", "Pumpkin", "Burnet"
     ],
     "SIENNA": [
-    "Ginger", "Ginger", "Red", "Red", "Fire", "Flame", "Ember", "Oak", "Shade", "Russet", "Fuchsia", "Hollyhock",
+    "Ginger", "Ginger", "Red", "Red", "Fire", "Flames that Set Night Ablaze", "Ember", "Oak", "Shade", "Russet", "Fuchsia", "Hollyhock",
     "Rowan", "Fox", "Orange", "Copper", "Cinnamon", "Burn", "Burnt", "Robin", "Oleander", "Scarlet", "Rust", "Lyre",
     "Robin", "Berry", "Ochre", "Auburn", "Burnet"
     ],
